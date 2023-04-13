@@ -1,1 +1,8 @@
-# Documents
+# Sat4EC
+
+In recent years, both the availability of and the demand for up-to-the-minute data have increased sharply. In order to be able to depict economic developments at an early stage, estimates are needed to ensure greater timeliness. To improve these estimates additional new
+digital data are to be developed. One of the possible new data sources is earth observation data.
+
+Currently, the focus at Destatis is on already established satellite-based indicators that are provided by external resources. However, to continue the integration of satellite data in internal processes of early GDP estimations, Destatis needs a data production that is independent from external sources where internal actors are in technical control, to ensure that the satellite-based indicators match the specific requirements of official statistics and will be of use beyond feasibility studies. Thus, with establishing the production of satellite-based indicators inside Destatis, the project aims to establish processes and methods for using Earth Observation (EO) for statistics that can easily be transferred to the creation of other satellite-based economic indicators and to other regions in the European statistical system (ESS). To achieve these, this project also aspires to build capacity at Destatis, regarding working with earth observation data and their use for statistics.
+
+In a first step the project will focus on the further development and integration into a working routine at Destatis of an already existing indicator, provided by the European Space Agency on car production. To further improve early economy estimation another indicator based on the knowledge and resources built up during adapting the first indicator, a second indicator shall be developed in a second step during the project.
