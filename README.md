@@ -1,4 +1,4 @@
-# Sat4EC
+# Sat4EC <img align="right" src="https://user-images.githubusercontent.com/130641822/231975777-437f63f2-8e35-45ae-8f0c-3c7d7e69b778.jpg" width="30%" >
 
 In recent years, both the availability of and the demand for up-to-the-minute data have increased sharply. In order to be able to depict economic developments at an early stage, estimates are needed to ensure greater timeliness. To improve these estimates additional new
 digital data are to be developed. One of the possible new data sources is earth observation data.
